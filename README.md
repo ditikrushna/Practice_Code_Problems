@@ -1,1 +1,1 @@
-# codewars-assigments-
+# Codewars Assigments
